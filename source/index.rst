@@ -25,4 +25,4 @@
    shell
    tmux
    vim
-   
+   jupyter_notebook  
